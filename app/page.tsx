@@ -10,7 +10,7 @@ const Home = async () => {
     <>
       <section className="px-6 md:px-20 py-12 ">
         <div className="flex max-xl:flex-col gap-16">
-          <div className="flex flex-col justify-center">
+          <div className="flex flex-col justify-center order-2 md:order-1">
             <p className="small-text">Smart Shopping Starts Here:</p>
 
             <h1 className="head-text">
